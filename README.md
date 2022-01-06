@@ -1,4 +1,4 @@
-# MAMBA_TELEGRAPH_UPLOADER
+# 🎂  🎀  𝑀𝒜𝑀𝐵𝒜 𝒯𝐸𝐿𝐸𝒢𝑅𝒜𝒫𝐻 𝒰𝒫𝐿🍬𝒜𝒟𝐸𝑅  🎀  🎂
 
 
 ### Deploy
@@ -25,4 +25,4 @@
 * [SUKHPAL](https://github.com/SUKHPAL443)
 
 
-#### THIS BOT IS POWERED BY CYBER EAGLE NETWORK
+#### THIS BOT IS POWERED BY CYBER EAGLE NETWORK, MAMBA NETWORK
